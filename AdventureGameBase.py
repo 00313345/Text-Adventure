@@ -141,6 +141,8 @@ while response not in playerchoice:
       input("\nENTER TO CONTINUE...\n")
       print("- CHALMERS: ...and so on, we should probably start our work on these steamed hams before they get cold, right Seymour?")
       print("After hearing your name you wake up a bit and agree to chowing down the so called steamed hams.")
+  else:
+      print("\nEnter either 1, or 2 please!")
 
 input("\nENTER TO CONTINUE...\n")
 print("Chalmers bites into his burger, and studys it briefly before looking back up at you.")
@@ -207,3 +209,5 @@ while response not in playerchoice:
       print("You give Chalmers a grand smile and a thumbs up, as he turns away you sprint back into the house...")
       print("End: Delightfully Devilish.")
       quit()
+  else:
+      print("\nEnter either 1, or 2 please!")
